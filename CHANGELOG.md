@@ -1,4 +1,13 @@
-# 0.1.0 (2021-11-09)
+## [0.1.1](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.0...v0.1.1) (2021-11-09)
+
+
+### Bug Fixes
+
+* secret token for release action ([9bc2d49](https://github.com/lem0n4id/hello-github-actions/commit/9bc2d492dd3d7c2bff85da4121d5266c01b33085))
+
+
+
+# [0.1.0](https://github.com/lem0n4id/hello-github-actions/compare/b255404eed35ce15887a315e2356810fbd4273a0...v0.1.0) (2021-11-09)
 
 
 ### Bug Fixes
