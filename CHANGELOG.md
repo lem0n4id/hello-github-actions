@@ -1,3 +1,12 @@
+## [0.1.2](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.1...v0.1.2) (2021-11-10)
+
+
+### Bug Fixes
+
+* readme.md ([25c5ad5](https://github.com/lem0n4id/hello-github-actions/commit/25c5ad52dfb10be501a5c76c38dd68dbc6bb5228))
+
+
+
 ## [0.1.1](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.0...v0.1.1) (2021-11-09)
 
 
