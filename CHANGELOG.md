@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.2...v0.1.3) (2021-11-10)
+
+
+### Bug Fixes
+
+* release action ([75ab069](https://github.com/lem0n4id/hello-github-actions/commit/75ab0695d940866370e06b6c29a2847d562e99f0))
+
+
+
 ## [0.1.2](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.1...v0.1.2) (2021-11-10)
 
 
