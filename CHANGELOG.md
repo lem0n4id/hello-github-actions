@@ -1,3 +1,17 @@
+# [0.3.0](https://github.com/lem0n4id/hello-github-actions/compare/v0.2.0...v0.3.0) (2021-11-10)
+
+
+### Bug Fixes
+
+* test2 ([b2cba33](https://github.com/lem0n4id/hello-github-actions/commit/b2cba3358784330ad1931a5a2c605168f7500c35))
+
+
+### Features
+
+* Commit back to the original release workflow ([aa52b3d](https://github.com/lem0n4id/hello-github-actions/commit/aa52b3df6cba06220e4f00f0997ee348c28bdeee))
+
+
+
 # [0.2.0](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.3...v0.2.0) (2021-11-10)
 
 
@@ -31,20 +45,6 @@
 ### Bug Fixes
 
 * secret token for release action ([9bc2d49](https://github.com/lem0n4id/hello-github-actions/commit/9bc2d492dd3d7c2bff85da4121d5266c01b33085))
-
-
-
-# [0.1.0](https://github.com/lem0n4id/hello-github-actions/compare/b255404eed35ce15887a315e2356810fbd4273a0...v0.1.0) (2021-11-09)
-
-
-### Bug Fixes
-
-* readme ([2c41fcd](https://github.com/lem0n4id/hello-github-actions/commit/2c41fcdf8ad7bf4f8569b4390e4f00f8f2463031))
-
-
-### Features
-
-* create release.yml ([b255404](https://github.com/lem0n4id/hello-github-actions/commit/b255404eed35ce15887a315e2356810fbd4273a0))
 
 
 
