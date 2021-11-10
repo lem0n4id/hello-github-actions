@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.3...v0.2.0) (2021-11-10)
+
+
+### Features
+
+* try softprops/action-gh-release ([3ad9f6a](https://github.com/lem0n4id/hello-github-actions/commit/3ad9f6aa55a017ce43ee6bb773713f2ac6dd0225))
+
+
+
 ## [0.1.3](https://github.com/lem0n4id/hello-github-actions/compare/v0.1.2...v0.1.3) (2021-11-10)
 
 
